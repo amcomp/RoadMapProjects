@@ -1,2 +1,2 @@
 FROM alpine:latest
-RUN echo "Hello Capitain"
+RUN echo "Hello Captain"
